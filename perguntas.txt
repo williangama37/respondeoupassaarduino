@@ -1,0 +1,40 @@
+A água ferve a 100°C ao nível do mar. → ✅ Verdadeiro
+O Sol gira ao redor da Terra. → ❌ Falso
+A capital do Brasil é Brasília. → ✅ Verdadeiro
+O ser humano tem 5 sentidos principais. → ✅ Verdadeiro
+A camada de ozônio protege a Terra dos raios UV. → ✅ Verdadeiro
+Marte é o planeta mais próximo do Sol. → ❌ Falso
+O número Pi é igual a 3,14. → ✅ Verdadeiro
+Um triângulo tem quatro lados. → ❌ Falso
+O corpo humano tem 206 ossos. → ✅ Verdadeiro
+A Amazônia é o maior deserto do mundo. → ❌ Falso
+A fotossíntese ocorre em animais. → ❌ Falso
+A letra “H” é a primeira do alfabeto. → ❌ Falso
+Um ano bissexto tem 366 dias. → ✅ Verdadeiro
+A eletricidade viaja mais rápido que o som. → ✅ Verdadeiro
+A Lua é uma estrela. → ❌ Falso
+Um quilograma tem 1.000 gramas. → ✅ Verdadeiro
+O oceano Atlântico é o maior do mundo. → ❌ Falso
+Shakespeare escreveu “Romeu e Julieta”. → ✅ Verdadeiro
+Um pentágono tem cinco lados. → ✅ Verdadeiro
+O Brasil já sediou a Copa do Mundo. → ✅ Verdadeiro
+O leite é uma fonte de cálcio. → ✅ Verdadeiro
+As plantas respiram oxigênio à noite. → ✅ Verdadeiro
+A Torre Eiffel fica na Itália. → ❌ Falso
+As abelhas são importantes para a polinização. → ✅ Verdadeiro
+O som não se propaga no vácuo. → ✅ Verdadeiro
+Os humanos possuem três pulmões. → ❌ Falso
+O sistema solar tem 8 planetas. → ✅ Verdadeiro
+A Terra é o quarto planeta do sistema solar. → ❌ Falso
+Os peixes respiram pelas brânquias. → ✅ Verdadeiro
+O ouro é um metal não-condutor. → ❌ Falso
+A bactéria é maior que uma célula humana. → ❌ Falso
+A Antártica é o continente mais frio. → ✅ Verdadeiro
+O vento é causado pelo movimento da Terra. → ❌ Falso
+A cebola é uma raiz. → ❌ Falso
+Relâmpago vem sempre depois do trovão. → ❌ Falso
+O sangue humano é sempre vermelho. → ✅ Verdadeiro
+Um dia tem 86.400 segundos. → ✅ Verdadeiro
+A baleia é o maior animal do planeta. → ✅ Verdadeiro
+O diamante é formado por carbono. → ✅ Verdadeiro
+O veneno da cobra é produzido no estômago. → ❌ Falso
